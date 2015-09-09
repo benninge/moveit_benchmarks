@@ -2,8 +2,8 @@
  rosrun moveit_ros_warehouse moveit_warehouse_import_from_text --host 127.0.0.1 --port 33829 --scene industrial.scene 
 
 
-roslaunch pr2_moveit_config run_benchmark_ompl.launch cfg:=/home/milan/eGraphPlanner/src/benchmarks/config.cfg debug:=true
+roslaunch pr2_moveit_config run_benchmark_ompl.launch cfg:=/home/milan/eGraphPlanner/src/moveit_benchmarks/config.cfg debug:=true
 
-rosrun moveit_ros_benchmarks moveit_benchmark_statistics.py /home/milan/eGraphPlanner/src/benchmarks/*.log -p benchmark_results.pdf
+rosrun moveit_ros_benchmarks moveit_benchmark_statistics.py /home/milan/eGraphPlanner/src/moveit_benchmarks/*.log -p benchmark_results.pdf
 
 
