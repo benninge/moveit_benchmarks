@@ -1,0 +1,80 @@
+Experiment industrial_omnirob
+Running on milan-ThinkPad-T440p
+Starting at 2015-09-14T11:46:28.692511
+Goal name Motion Plan Request 12
+Start name omnirob_industrial_04
+20 seconds per run
+68.6418 seconds spent to collect the data
+5 planners
+OMPL_RRT
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.000943713000002; 
+.
+OMPL_RRTConnect
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.14538326800342591; 0; 66.363042065073117; 0.43854804926568175; 5.8999999999999998e-05; 0.13995748742793998; 0; 66.363042065073131; 6.8087239985961459; 6.0722699999999996; 0.13995748742793998; 0; 66.363042065073131; 6.8087239985961459; 0; 0.00079715400000005335; 1; 6.0731261539999997; 
+.
+OMPL_RRTStar
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.010599834000001; 
+.
+OMPL_eGraph_RRT
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.003401200999999; 
+.
+OMPL_eGraph_RRTC
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.10364302236351673; 0; 35.706598859189398; 0.84397904664482282; 3.4e-05; 0.09758260489131014; 0; 35.706598859189405; 7.5117655995732173; 0.0055649999999999996; 0.09758260489131014; 0; 35.706598859189405; 7.5117655995732173; 0; 0.00043854600000000076; 1; 0.0060375460000000004; 
+.

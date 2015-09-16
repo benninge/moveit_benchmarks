@@ -1,0 +1,80 @@
+Experiment bookshelves_omnirob
+Running on milan-ThinkPad-T440p
+Starting at 2015-09-16T06:22:54.609302
+Goal name Motion Plan Request 10
+Start name omnirob_shelf_14
+20 seconds per run
+71.7033 seconds spent to collect the data
+5 planners
+OMPL_RRT
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.003137468999999; 
+.
+OMPL_RRTConnect
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.18176302354207591; 0; 95.79002545361466; 0.49747581652302747; 6.7000000000000002e-05; 0.14282248355448246; 0; 95.790025453614746; 7.8490829393435737; 10.089839; 0.14282248355448246; 0; 95.790025453614746; 7.8490829393435737; 0; 0.00099829099999974619; 1; 10.090904290999999; 
+.
+OMPL_RRTStar
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.004196461999999; 
+.
+OMPL_eGraph_RRT
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.003267191999999; 
+.
+OMPL_eGraph_RRTC
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.12542190567844294; 0; 61.852695462118447; 0.65264070753609338; 4.3999999999999999e-05; 0.097913160387958803; 0; 61.852695462118533; 8.2836855184473155; 0.0042310000000000004; 0.097913160387958803; 0; 61.852695462118533; 8.2836855184473155; 0; 0.00068053000000000015; 1; 0.0049555300000000005; 
+.

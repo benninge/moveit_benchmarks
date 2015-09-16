@@ -1,0 +1,64 @@
+Experiment industrial
+Running on milan-ThinkPad-T440p
+Starting at 2015-09-12T10:22:40.849551
+Goal name Motion Plan Request 4
+Start name pr2_industrial_0000
+20 seconds per run
+85.8985 seconds spent to collect the data
+5 planners
+OMPL_RRT
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.000200292999999; 
+.
+OMPL_RRTConnect
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.03969712728920443; 1; 60.771420905343646; 0.43913743724950222; 5.5999999999999999e-05; 0.036947827351589996; 1; 60.77142090534354; 7.9714200065363263; 2.1628430000000001; 0.036947827351589996; 1; 60.77142090534354; 7.9714200065363263; 0; 0.0024737239999999554; 1; 2.165372724; 
+.
+OMPL_RRTStar
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.083604965999999; 
+.
+OMPL_eGraph_RRT
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.005963613999999; 
+.
+OMPL_eGraph_RRTC
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.014231894000002; 
+.
