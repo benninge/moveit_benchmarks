@@ -1,0 +1,96 @@
+Experiment bookshelves+
+Running on milan-ThinkPad-T440p
+Starting at 2015-09-17T07:03:34.955870
+Goal name Motion Plan Request 8
+Start name pr2_shelf_14
+20 seconds per run
+43.6567 seconds spent to collect the data
+5 planners
+OMPL_RRT
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.002406885999999; 
+.
+OMPL_RRTConnect
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.015729347243905067; 1; 17.67269869200306; 0.32583577198738467; 4.8999999999999998e-05; 0.015729347243905067; 1; 17.67269869200306; 7.6570624400597351; 0.066225000000000006; 0.015729347243905067; 1; 17.67269869200306; 7.6570624400597351; 0; 0.00084603700000000131; 1; 0.067120037000000007; 
+.
+OMPL_RRTStar
+0 common properties
+2 properties for each run
+solved BOOLEAN
+total_time REAL
+1 runs
+0; 20.083247927999999; 
+.
+OMPL_eGraph_RRT
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.01422979386852068; 1; 8.5193067588502291; 0.31637107463065928; 2.4000000000000001e-05; 0.013226389419287443; 1; 8.5193067588502309; 3.0590864443460521; 0.040667000000000002; 0.013226389419287443; 1; 8.5193067588502309; 3.0590864443460521; 0; 0.00041715200000000022; 1; 0.041108152000000002; 
+.
+OMPL_eGraph_RRTC
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.015377810495624016; 1; 32.485416260864611; 0.6653284033549689; 4.1e-05; 0.015729347243905067; 1; 32.485416260864596; 7.8722486233989857; 0.046956999999999999; 0.015729347243905067; 1; 32.485416260864596; 7.8722486233989857; 0; 0.001446667000000005; 1; 0.048444667000000004; 
+.

@@ -1,0 +1,123 @@
+Experiment dual_arm_tabletop+
+Running on milan-ThinkPad-T440p
+Starting at 2015-09-18T18:43:41.514740
+Goal name Motion Plan Request 0
+Start name pr2_table_10
+20 seconds per run
+23.5832 seconds spent to collect the data
+5 planners
+OMPL_RRT
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.13267868695159754; 1; 24.826308359972902; 0.29765558464600356; 5.0000000000000002e-05; 0.13035445883870125; 1; 24.826308359972909; 8.4096843811990958; 0.14824200000000001; 0.13035445883870125; 1; 24.826308359972909; 8.4096843811990958; 0; 0.001152624999999985; 1; 0.149444625; 
+.
+OMPL_RRTConnect
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.11975450072337143; 1; 41.992188252643714; 0.35605114343407718; 6.9999999999999994e-05; 0.11462107347324491; 1; 41.992188252643764; 10.260387707227942; 0.44657999999999998; 0.11462107347324491; 1; 41.992188252643764; 10.260387707227942; 0; 0.0018215500000000751; 1; 0.44847155000000005; 
+.
+OMPL_RRTStar
+0 common properties
+13 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.12070360558171725; 1; 14.531087424731119; 0.42927194742662222; 2.9e-05; 0.11130526587367058; 1; 14.531087424731115; 4.8096972410773073; 20.006892000000001; 0.00068172400000105068; 1; 20.007602724000002; 
+.
+OMPL_eGraph_RRT
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.087875623307708234; 1; 27.121709016448307; 0.67059531108183845; 3.6999999999999998e-05; 0.072428048402070996; 1; 27.121709016448303; 8.48663670027031; 0.0043990000000000001; 0.072428048402070996; 1; 27.121709016448303; 8.48663670027031; 0; 0.0012201850000000001; 1; 0.0056561850000000002; 
+.
+OMPL_eGraph_RRTC
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.098490374306073561; 1; 19.647778414846432; 0.29085202271366473; 2.9e-05; 0.072393347198764488; 1; 19.647778414846414; 5.9731376981523239; 0.069874000000000006; 0.072393347198764488; 1; 19.647778414846414; 5.9731376981523239; 0; 0.00092556099999999272; 1; 0.070828560999999998; 
+.

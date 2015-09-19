@@ -1,0 +1,123 @@
+Experiment dual_arm_tabletop+
+Running on milan-ThinkPad-T440p
+Starting at 2015-09-18T21:00:52.669006
+Goal name Motion Plan Request 12
+Start name pr2_table_09
+20 seconds per run
+22.8142 seconds spent to collect the data
+5 planners
+OMPL_RRT
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.023084072582423686; 1; 1.3731572693830103; 7.1054273496942317e-16; 3.3000000000000003e-05; 0.017708871513605118; 1; 1.3731572693830103; 0; 0.101197; 0.017708871513605118; 1; 1.3731572693830103; 0; 0; 0.00023343100000001142; 1; 0.10146343100000001; 
+.
+OMPL_RRTConnect
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.035192539796042137; 1; 9.9407217753809398; 0.87670053804591019; 3.4e-05; 0.02562080944577853; 1; 9.9407217753809434; 10.954347010159426; 0.050960999999999999; 0.02562080944577853; 1; 9.9407217753809434; 10.954347010159426; 0; 0.0004952070000000038; 1; 0.051490207000000003; 
+.
+OMPL_RRTStar
+0 common properties
+13 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.023084072582423686; 1; 1.3731572693830096; 8.8817841970012523e-16; 1.8e-05; 0.017708871513605118; 1; 1.3731572693830096; 0; 20.017813; 0.00020759800000010454; 1; 20.018038598; 
+.
+OMPL_eGraph_RRT
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.02122201956808567; 1; 1.3731572693830107; 0.44511100409358423; 1.7e-05; 0.01339402049779892; 1; 1.373157269383011; 2.2017006312005427; 0.003908; 0.01339402049779892; 1; 1.373157269383011; 2.2017006312005427; 0; 0.00021705500000000037; 1; 0.0041420550000000004; 
+.
+OMPL_eGraph_RRTC
+0 common properties
+18 properties for each run
+path_interpolate_clearance REAL
+path_interpolate_correct BOOLEAN
+path_interpolate_length REAL
+path_interpolate_smoothness REAL
+path_interpolate_time REAL
+path_plan_clearance REAL
+path_plan_correct BOOLEAN
+path_plan_length REAL
+path_plan_smoothness REAL
+path_plan_time REAL
+path_simplify_clearance REAL
+path_simplify_correct BOOLEAN
+path_simplify_length REAL
+path_simplify_smoothness REAL
+path_simplify_time REAL
+process_time REAL
+solved BOOLEAN
+total_time REAL
+1 runs
+0.02122201956808567; 1; 1.3731572693830099; 4.4408920985006262e-16; 1.7e-05; 0.01339402049779892; 1; 1.3731572693830096; 0; 0.0040280000000000003; 0.01339402049779892; 1; 1.3731572693830096; 0; 0; 0.00019863999999999958; 1; 0.0042436399999999999; 
+.

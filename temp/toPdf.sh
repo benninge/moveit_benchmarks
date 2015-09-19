@@ -1,0 +1,1 @@
+rosrun moveit_ros_benchmarks moveit_benchmark_statistics.py -p benchmark_result.pdf
