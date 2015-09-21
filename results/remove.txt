@@ -1,0 +1,3 @@
+SELECT *
+FROM planner_OMPL_RRT
+WHERE CAST(substr(start_name, 11) AS INT) = CAST(goal_name AS INT) 
